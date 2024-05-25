@@ -1,9 +1,10 @@
 # SOCKET-TRIGGER-APP
 
-## Installation
+## Backend Nest JS Installation
 
 ```bash
 $ npm install
+$ nest -g install
 ```
 
 ## Running the app
